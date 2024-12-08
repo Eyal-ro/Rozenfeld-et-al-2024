@@ -1,4 +1,4 @@
-# Rozenfeld-et-al-2025
+# Rozenfeld-et-al-2024
 This repository contains the data and code used to generate the figures in the paper titled “Neuronal Circuit Mechanisms of Competitive Interaction Between Action-based and Coincidence Learning” by Rozenfeld et.al. All of the code was written in MATLAB.
 The code was tested on a Windows 10 PC and does not require any specialized hardware.
 
